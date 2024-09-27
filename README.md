@@ -9,7 +9,7 @@ You can check our research at [Virus Bulletin 2024 website.](https://www.virusbu
   - Python script to decrypt Stage 3 shellcode of GhimeraGh0st infection chain
 - decrypt-dat.py
   - Python script to decrypt encrypted ChimeraGh0st file
-- decrypt-string,py
+- decrypt-string.py
   - Python script to decrypt the configuration and strings in the ChimeraGhost
 - idapython-flow-fixer.py (Confirmed on IDA 8.3)
   - IDAPython script to deobfuscate jcc control flow of ChimeraGh0st, BlackDLL.
