@@ -1,5 +1,5 @@
 # Ghosts from the past: Become Gh0stbusters in 2024
-Here is Indicators and python scripts I wrote during our research on Gh0st RAT variatns.
+Here is Indicators and python scripts I wrote during our research on Gh0st RAT variants.
 
 You can check our research at [Virus Bulletin 2024 website.](https://www.virusbulletin.com/conference/vb2024/abstracts/ghosts-past-become-gh0stbusters-2024/)
 
