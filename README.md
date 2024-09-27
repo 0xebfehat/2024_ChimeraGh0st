@@ -14,5 +14,7 @@ You can check our research at [Virus Bulletin 2024 website.](https://www.virusbu
 - idapython-flow-fixer.py (Confirmed on IDA 8.3)
   - IDAPython script to deobfuscate jcc control flow of ChimeraGh0st, BlackDLL.
   - This script is for IDA Debugger
-  - Usage: Set the breakpoint at the function in which jcc obfuscation starts, and run this script. 
+  - Usage:
+      1. Set the breakpoint at the function in which jcc obfuscation starts.  
+      2. When the breakpoint is hit, run this script. 
 
